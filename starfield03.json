@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "type": "square-textured",
+  "properties": {
+    "layer": 1,
+    "fade": {
+      "keyFrames": {
+        "0": 0.0,
+        "12500": 0.0,
+        "12750": 1.0,
+        "23300": 1.0,
+        "23500": 0.0
+      }
+    },
+    "rotation": {
+      "mapping": {
+        "0": [0.0, 0.0, 0.0]
+      },
+      "axis": {
+        "0": [0.0, -0.2, 0.0]
+      }
+    }
+  },
+  "conditions": {},
+  "texture": "nuit:sky/starfield03.png"
+}

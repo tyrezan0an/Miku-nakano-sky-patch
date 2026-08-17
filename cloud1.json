@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "type": "square-textured",
+  "properties": {
+    "layer": 0,
+    "fade": {
+      "keyFrames": {
+        "0": 1.0,
+        "11800": 1.0,
+        "12400": 0.0,
+        "23500": 0.0
+      }
+    },
+    "rotation": {
+      "mapping": {
+        "0": [0.0, 0.0, 0.0]
+      },
+      "axis": {
+        "0": [0.0, -0.2, 0.0]
+      }
+    }
+  },
+  "conditions": {},
+  "texture": "nuit:sky/cloud1.png"
+}
